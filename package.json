@@ -2,9 +2,9 @@
   "name": "school-listing-chatbot-backend",
   "version": "1.0.0",
   "description": "School Listing Chatbot Backend with Google Gemini AI",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node index.js",
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
